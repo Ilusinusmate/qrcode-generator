@@ -1,0 +1,19 @@
+/home/joaogabriels/Android/Sdk/cmake/3.22.1/bin/cmake \
+  -H/home/joaogabriels/snap/flutter/common/flutter/packages/flutter_tools/gradle/src/main/groovy \
+  -DCMAKE_SYSTEM_NAME=Android \
+  -DCMAKE_EXPORT_COMPILE_COMMANDS=ON \
+  -DCMAKE_SYSTEM_VERSION=21 \
+  -DANDROID_PLATFORM=android-21 \
+  -DANDROID_ABI=arm64-v8a \
+  -DCMAKE_ANDROID_ARCH_ABI=arm64-v8a \
+  -DANDROID_NDK=/home/joaogabriels/Android/Sdk/ndk/26.3.11579264 \
+  -DCMAKE_ANDROID_NDK=/home/joaogabriels/Android/Sdk/ndk/26.3.11579264 \
+  -DCMAKE_TOOLCHAIN_FILE=/home/joaogabriels/Android/Sdk/ndk/26.3.11579264/build/cmake/android.toolchain.cmake \
+  -DCMAKE_MAKE_PROGRAM=/home/joaogabriels/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/joaogabriels/dev/qrcode-mobile/qrcode_app/build/app/intermediates/cxx/RelWithDebInfo/6v3q701v/obj/arm64-v8a \
+  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/joaogabriels/dev/qrcode-mobile/qrcode_app/build/app/intermediates/cxx/RelWithDebInfo/6v3q701v/obj/arm64-v8a \
+  -DCMAKE_BUILD_TYPE=RelWithDebInfo \
+  -B/home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/.cxx/RelWithDebInfo/6v3q701v/arm64-v8a \
+  -GNinja \
+  -Wno-dev \
+  --no-warn-unused-cli
