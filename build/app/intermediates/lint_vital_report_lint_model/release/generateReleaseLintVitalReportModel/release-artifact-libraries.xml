@@ -1,8 +1,8 @@
 <libraries>
   <library
-      name="__local_aars__:/home/joaogabriels/dev/qrcode-mobile/qrcode_app/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/home/joaogabriels/dev/qrcode-mobile/qrcode_app/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/home/joaogabriels/dev/qrcode-mobile/qrcode_app/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
       name="io.flutter:flutter_embedding_release:1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434@jar"
       jars="/home/joaogabriels/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434/e1f965c14eb9a096111654ae1a59480778f50cbc/flutter_embedding_release-1.0.0-18b71d647a292a980abb405ac7d16fe1f0b20434.jar"

@@ -1,16 +1,16 @@
-# qrcode_app
+Gerador de QRCode em tempo real feito em Flutter, traduz qualquer texto em um QRCode e faz display na tela, gerando a imagem inMemory. Testado em Android e Linux Desktop.
 
-A new Flutter project.
+``` flutter run ``` 
 
-## Getting Started
+Irá rodar o código fonte no modo de desenvolvimento.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Versão Android:
+[APK](./releases/app-release.apk)
+![Mobile Version](./releases/images/mobile-version.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Versão Linux:
+Ainda não disponível!
+
+![Linux Version](./releases/images/linux-version.png)

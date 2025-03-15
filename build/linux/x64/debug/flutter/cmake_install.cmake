@@ -1,8 +1,8 @@
-# Install script for directory: /home/joaogabriels/dev/qrcode-mobile/qrcode_app/linux/flutter
+# Install script for directory: /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/joaogabriels/dev/qrcode-mobile/qrcode_app/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

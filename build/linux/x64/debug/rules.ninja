@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__qrcode_app
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /snap/flutter/149/usr/bin/cmake -S/home/joaogabriels/dev/qrcode-mobile/qrcode_app/linux -B/home/joaogabriels/dev/qrcode-mobile/qrcode_app/build/linux/x64/debug
+  command = /snap/flutter/149/usr/bin/cmake -S/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/linux -B/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/build/linux/x64/debug
   description = Re-running CMake...
   generator = 1
 

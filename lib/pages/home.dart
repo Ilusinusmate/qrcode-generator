@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:qr_flutter/qr_flutter.dart';
-import 'package:qrcode_app/components/header.dart';
+import "../components/header.dart";
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

@@ -1,7 +1,7 @@
 -- Merging decision tree log ---
 application
-INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:2:5-33:19
-INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:2:5-33:19
+INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:2:5-33:19
 MERGED from [androidx.window:window:1.2.0] /home/joaogabriels/.gradle/caches/8.10.2/transforms/aed2861b2b6894f7067df3f3f96b791f/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] /home/joaogabriels/.gradle/caches/8.10.2/transforms/aed2861b2b6894f7067df3f3f96b791f/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.core:core:1.13.1] /home/joaogabriels/.gradle/caches/8.10.2/transforms/dfc2fbca530748e569b0737b09fa016f/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
@@ -15,21 +15,21 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/joaogabriels/.gradle/
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joaogabriels/.gradle/caches/8.10.2/transforms/d1d97c503b3a4bd9cc3718f3fd84010a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/joaogabriels/.gradle/caches/8.10.2/transforms/d1d97c503b3a4bd9cc3718f3fd84010a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /home/joaogabriels/.gradle/caches/8.10.2/transforms/dfc2fbca530748e569b0737b09fa016f/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:3:9-35
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:3:9-35
 	android:icon
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:5:9-43
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:5:9-43
 	android:name
-		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:4:9-42
+		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:4:9-42
 manifest
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:1:1-45:12
-INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:1:1-45:12
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:1:1-45:12
 MERGED from [androidx.fragment:fragment:1.7.1] /home/joaogabriels/.gradle/caches/8.10.2/transforms/cf3a986fc94dc98dab92da85e4b25558/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window:1.2.0] /home/joaogabriels/.gradle/caches/8.10.2/transforms/aed2861b2b6894f7067df3f3f96b791f/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] /home/joaogabriels/.gradle/caches/8.10.2/transforms/a2be31f5f98c024d17eda5160252de46/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
@@ -57,69 +57,69 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/joaogabriels/.gradl
 MERGED from [androidx.window.extensions.core:core:1.0.0] /home/joaogabriels/.gradle/caches/8.10.2/transforms/214b8070ae4c800f920040867b251ddc/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/joaogabriels/.gradle/caches/8.10.2/transforms/1841dfdc9324175fac5338109cf574de/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
 	package
-		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:1:11-69
 queries
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:39:5-44:15
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:39:5-44:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:40:9-43:18
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:40:9-43:18
 action#android.intent.action.PROCESS_TEXT
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:41:13-72
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:41:13-72
 	android:name
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:41:21-70
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:41:21-70
 data
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:42:13-50
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:42:13-50
 	android:mimeType
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:42:19-48
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:42:19-48
 activity#com.example.qrcode_app.MainActivity
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:6:9-27:20
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:6:9-27:20
 	android:launchMode
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:9:13-43
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:9:13-43
 	android:hardwareAccelerated
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:13:13-47
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:13:13-47
 	android:windowSoftInputMode
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:14:13-55
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:14:13-55
 	android:exported
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:8:13-36
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:8:13-36
 	android:configChanges
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:12:13-163
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:12:13-163
 	android:theme
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:11:13-47
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:11:13-47
 	android:taskAffinity
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:10:13-36
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:10:13-36
 	android:name
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:7:13-41
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:7:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:19:13-22:17
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:19:13-22:17
 	android:resource
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:21:15-52
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:21:15-52
 	android:name
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:20:15-70
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:20:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:23:13-26:29
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:24:17-68
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:24:17-68
 	android:name
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:24:25-66
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:25:17-76
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:25:17-76
 	android:name
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:25:27-74
 meta-data#flutterEmbedding
-ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:30:9-32:33
+ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:30:9-32:33
 	android:value
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:32:13-30
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:32:13-30
 	android:name
-		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml:31:13-44
+		ADDED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml:31:13-44
 uses-sdk
-INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
 MERGED from [androidx.fragment:fragment:1.7.1] /home/joaogabriels/.gradle/caches/8.10.2/transforms/cf3a986fc94dc98dab92da85e4b25558/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /home/joaogabriels/.gradle/caches/8.10.2/transforms/cf3a986fc94dc98dab92da85e4b25558/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window:1.2.0] /home/joaogabriels/.gradle/caches/8.10.2/transforms/aed2861b2b6894f7067df3f3f96b791f/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
@@ -173,9 +173,9 @@ MERGED from [androidx.window.extensions.core:core:1.0.0] /home/joaogabriels/.gra
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/joaogabriels/.gradle/caches/8.10.2/transforms/1841dfdc9324175fac5338109cf574de/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /home/joaogabriels/.gradle/caches/8.10.2/transforms/1841dfdc9324175fac5338109cf574de/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 	android:targetSdkVersion
-		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/AndroidManifest.xml
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /home/joaogabriels/.gradle/caches/8.10.2/transforms/aed2861b2b6894f7067df3f3f96b791f/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required

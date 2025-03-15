@@ -154,7 +154,7 @@
             "outputFile": "com.example.qrcode_app-release-27:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1247,7 +1247,7 @@
                     }
                 },
                 {
-                    "source": "/home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

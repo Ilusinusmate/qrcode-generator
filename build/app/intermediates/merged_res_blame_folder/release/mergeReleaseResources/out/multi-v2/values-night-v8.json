@@ -4,7 +4,7 @@
             "outputFile": "com.example.qrcode_app-mergeReleaseResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/joaogabriels/dev/qrcode-mobile/qrcode_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/joaogabriels/dev/qrcode-mobile/qrcode_app/qrcode-generator/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
